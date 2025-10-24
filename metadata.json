@@ -1,0 +1,5 @@
+{
+  "name": "Branching Dialogue Creator",
+  "description": "An application to visually create branching dialogue scenarios for training, role-playing, and interactive storytelling. Users can build complex conversation trees and export them as a self-contained, playable HTML file.",
+  "requestFramePermissions": []
+}
